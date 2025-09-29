@@ -35,7 +35,7 @@ For example, the program running in Xterm:
 
 Or in a Telegram chat:
 
-![image](file:imgs/dados-telegram.png)
+<img src="imgs/dados-telegram.png">
 
 ## How it works:
 
