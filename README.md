@@ -31,11 +31,11 @@ The program can display its output in an Unix terminal, using Unicode and ANSI e
 
 For example, the program running in Xterm:
 
-![image](http://localhost/descargas/dados-xterm.png)
+![image](file:imgs/dados-xterm.png)
 
 Or in a Telegram chat:
 
-![image](http://localhost/descargas/dados-telegram.png)
+![image](file:imgs/dados-telegram.png)
 
 ## How it works:
 
