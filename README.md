@@ -31,7 +31,7 @@ The program can display its output in an Unix terminal, using Unicode and ANSI e
 
 For example, the program running in Xterm:
 
-![image](file:imgs/dados-xterm.png)
+<img src="imgs/dados-xterm.png">
 
 Or in a Telegram chat:
 
