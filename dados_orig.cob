@@ -2,7 +2,6 @@
 000010* 1d10, 2d12, 20d20, etc.
 000020* Máximo 99 dados.
 000030* El número de caras es libre, con un máximo de 99999.
-000000* HTTP API:      5654579089:AAGqkNQHi3TVFJUSakfiOnSOWLkr9tPZM44
 
 000040 IDENTIFICATION DIVISION.
 000050 PROGRAM-ID. TirarDados.
